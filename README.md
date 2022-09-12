@@ -1,2 +1,2 @@
-# laboratory-in-python
+# Laboratory-in-python
 Homework in the first semester
